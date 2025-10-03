@@ -1,4 +1,5 @@
 # Team Members
-Leader: Person A (Git Expert)
-Developer: Person B
-Skills: Advanced Git workflows
+# Team Members
+Co-Leader: Person A (Git Expert)
+Co-Leader: Person B (Conflict Resolver)
+Skills: Advanced Git workflows and teamwork
