@@ -1,0 +1,3 @@
+"# Team Members" 
+"Leader: Person A" 
+"Skills: Git basics" 
