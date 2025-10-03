@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 # Fantastic Collaborative Project - Updated by Person B
+=======
+# Amazing Collaborative Project - Updated by Person A Charki
+>>>>>>> 01846e4809c8bf919b55520e1af050d520f3f93d
+# Epic Collaborative Project - Updated by Both A and B
 "Created by: Charki" 
 "Collaborator: BEKKOUS" 
