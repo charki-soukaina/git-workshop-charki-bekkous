@@ -1,3 +1,4 @@
-"# Team Members" 
-"Leader: Person A" 
-"Skills: Git basics" 
+# Team Members
+Co-Leader: Person A
+Co-Leader: Person B (Conflict Resolver)
+Skills: Git collaboration and teamwork
